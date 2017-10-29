@@ -70,6 +70,29 @@ body {
   color: #e01919;
 }
 
+#main{
+  
+  margin-top: 40px;
+  
+
+}
+#add1{
+  margin-left: 600px;
+  margin-top: 10px;
+  color: #121111;
+  font-size: 20px;
+
+}
+
+#user{
+  padding-top: 30px;
+  padding-left: 20px;
+}
+#index{
+  margin-right: 400px;
+
+}
+
 @media (max-width: 767px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #121111;
